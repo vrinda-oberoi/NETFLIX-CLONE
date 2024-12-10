@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    border: border-box;
+}
+
+ .navbar{
+        height: 80px;
+        display:flex;
+        margin-left: 16px;
+        color:white;
+        background-color: rgb(24, 23, 23);
+        justify-content: space-evenly;
+}
+
+.banner{
+    height:40px;
+    width: 350px;
+    margin-left: 16px;
+}
+
+.logo{
+    background-image: url(logo.jpg);
+    background-size: cover;
+    height: 40;
+    width:150px ;
+}
